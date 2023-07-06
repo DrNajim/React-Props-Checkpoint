@@ -1,3 +1,13 @@
+# Descriptin of project using React
+
+We create a file called players.js, which is going to have an array of JSON Objects containing the player’s details (At least four players)
+·        The attributes for each player are name, team, nationality, jerseyNumber, age, and an Image URL for the player.
+·        We create a file called Player.js which contains the player component.
+·        The Player component  render using a react-bootstrap card. The card  display all attributes for each player defined in the players.js.
+·        WE create a component called PlayersList.js
+·        We display all players inside the PlayerList.js, by mapping through all the elements in the array of players (check the .map function)
+·        While mapping through the players we pass in the props to the Player component (Search for the spread operator if you would like to use it)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
