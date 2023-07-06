@@ -1,4 +1,4 @@
-# Descriptin of project using React
+# Description of this mini-project using React
 
 We create a file called players.js, which is going to have an array of JSON Objects containing the player’s details (At least four players)
 ·        The attributes for each player are name, team, nationality, jerseyNumber, age, and an Image URL for the player.
